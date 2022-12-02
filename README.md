@@ -47,7 +47,7 @@ You should be able to run this code quickly.
 
 Clone this repo.
 
-    git clone https://github.com/designium/rails7base
+    git clone https://github.com/elitesuper/rails7base
 
 Then do
 
